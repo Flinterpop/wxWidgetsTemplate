@@ -1,0 +1,2 @@
+# wxWidgetsTemplate
+MSVC with wxWidgets

@@ -1,3 +1,13 @@
+
+![image](https://github.com/user-attachments/assets/213f4f31-c6f1-476c-965c-3c95284a7297)
+
+
+
+Copied (no forked) from:
+
+
+
+
 Download, build and statically link wxWidgets as the GUI library for your C++ project!
 
 [![Video](/output.gif)](https://www.youtube.com/watch?v=zjNg5HdgNO0)
